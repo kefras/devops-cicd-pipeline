@@ -41,7 +41,8 @@ Below is a current view of the active repository structure:
 ### Prerequisites
 Before you begin, ensure you have the following installed and configured:
 * Git
-* *[Add other tools needed, e.g., Docker, Terraform, AWS CLI]*
+* Docker,
+* AWS CLI]*
 
 ### Installation & Local Setup
 
