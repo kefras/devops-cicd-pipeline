@@ -11,6 +11,10 @@ This repository contains the complete configuration, scripts, and infrastructure
 ### Repository Status
 Below is a current view of the active repository structure:
 
+<p align="center">
+  <img src="./devops-cicd-pipeline/Screenshot 2026-06-20 140523.png" alt="Architecture Diagram" width="320">
+</p>
+
 ![Repository Status](devops-cicd-pipeline/Screenshot 2026-06-20 140523.png)
 
 ---
