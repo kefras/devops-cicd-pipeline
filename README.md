@@ -20,11 +20,10 @@ Below is a current view of the active repository structure:
 ## 🛠️ Tools & Technologies Used
 
 * **Version Control:** GitHub
-* **CI/CD Automation:** *[e.g., GitHub Actions / Jenkins / GitLab CI]*
-* **Containerization:** *[e.g., Docker]*
-* **Orchestration / Hosting:** *[e.g., Kubernetes / AWS ECS / Vercel]*
-* **Infrastructure as Code:** *[e.g., Terraform / Ansible]*
-* **Security & Quality:** *[e.g., SonarQube / Snyk]*
+* **CI/CD Automation:** GitHub Actions
+* **Containerization:** Docker
+* **Orchestration / Hosting:** Kubernetes
+* **Infrastructure as Code:** Terraform
 
 ---
 
